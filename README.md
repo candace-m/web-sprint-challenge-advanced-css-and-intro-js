@@ -32,10 +32,15 @@ My favorite concept of preprocessing is mixins, because I like that I can attrib
 
 3. How would you explain the concept of a variable to someone new to programming?
 
-
+A variable is like a box. It holds info and it has a name. You can then use that name to call all of the info in that box.
 
 4. What is the purpose of using functions in code?
+
+The purpose of functions is to give you the ability to use blocks of code repeatedly.
+
 5. What is JSON data?
+
+JSON stands for JavaScript Object Notation. JSON is a way to share data between the browser and the server.
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 
