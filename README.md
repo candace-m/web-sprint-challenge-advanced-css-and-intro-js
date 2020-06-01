@@ -23,8 +23,17 @@ Commit your code regularly and meaningfully. This helps both you (in case you ev
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
 
 1. How would you describe preprocessing to someone new to CSS?
+
+Preprocessing gives you a way to write more compact code and allows you to use variables in multiple areas throughout your css with ease.
+
 2. What is your favorite concept in preprocessing? What is the concept that gives you the most trouble?
+
+My favorite concept of preprocessing is mixins, because I like that I can attribute many different characteristics that I know I want to use repeatedly to one mixin and then place it wherever I need it. One thing I struggled with in preprocessing was using media queries, but I think I am understanding it better now.
+
 3. How would you explain the concept of a variable to someone new to programming?
+
+
+
 4. What is the purpose of using functions in code?
 5. What is JSON data?
 
